@@ -1,0 +1,9 @@
+{
+	"name": "salesforce2sql",
+	"location": "westeurope",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "7518ab95-7dca-447c-891e-b8eb49839840",
+		"tenantId": "eb070993-6d5f-45ee-8922-9d16ba0f5622"
+	}
+}
