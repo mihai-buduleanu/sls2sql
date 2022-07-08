@@ -6,6 +6,9 @@
 			"type": "LinkedServiceReference"
 		},
 		"annotations": [],
-		"type": "SqlServerTable"
+		"type": "SqlServerTable",
+		"typeProperties": {
+			"tableName": "df_contact"
+		}
 	}
 }
