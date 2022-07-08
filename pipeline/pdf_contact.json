@@ -29,7 +29,10 @@
 						"readBehavior": "query"
 					},
 					"sink": {
-						"type": "SqlServerSink"
+						"type": "SqlServerSink",
+						"writeBehavior": "insert",
+						"sqlWriterUseTableLock": true,
+						"tableOption": "autoCreate"
 					},
 					"enableStaging": false
 				},
