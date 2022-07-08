@@ -1,0 +1,11 @@
+{
+	"name": "DestinationDataset_ag6",
+	"properties": {
+		"linkedServiceName": {
+			"referenceName": "SqlServer1",
+			"type": "LinkedServiceReference"
+		},
+		"annotations": [],
+		"type": "SqlServerTable"
+	}
+}
